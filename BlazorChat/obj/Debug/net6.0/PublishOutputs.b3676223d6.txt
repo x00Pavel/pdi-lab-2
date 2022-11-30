@@ -1,0 +1,10 @@
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/BlazorChat
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/appsettings.json
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/BlazorChat.dll
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/BlazorChat.deps.json
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/BlazorChat.runtimeconfig.json
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/BlazorChat.pdb
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/Microsoft.AspNetCore.Http.Connections.Client.dll
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/Microsoft.AspNetCore.SignalR.Client.dll
+/home/pavel/studies/fit/mitai/rocnik-2/pdi/lab-2/BlazorChat/bin/Debug/net6.0/publish/Microsoft.AspNetCore.SignalR.Client.Core.dll

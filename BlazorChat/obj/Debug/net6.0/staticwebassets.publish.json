@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "Li8lwkxqPrM4qEhK8LKNJBrjuYTaiKGiBRjm7sdBSNI=",
+  "Hash": "CFq3c2xz9Qjumx675Xy6AtysurpHm2kUUqAJ1qmzMSY=",
   "Source": "BlazorChat",
   "BasePath": "_content/BlazorChat",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": [
